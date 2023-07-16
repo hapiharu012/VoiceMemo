@@ -1,4 +1,6 @@
 # VoiceMemo  
+![ロゴ](https://github.com/hapiharu012/VoiceMemo/assets/120043995/cb675d0a-c8f9-4bac-8cbf-55dc18e17e94)
+
 ## 概要
 VoiceMemoは、話すだけでメモを作成できる音声メモアプリケーションです。
 ## きっかけ　
