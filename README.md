@@ -20,7 +20,7 @@ VoiceMemoは、話すだけでメモを作成できる音声メモアプリケ�
 ![画像が表示できませんでした](https://github.com/hapiharu012/VoiceMemo/assets/120043995/4f25510f-f052-407b-9bc8-92f56cbae38e "macのアプリ")
 
 ## 実行動画
-  [***YouTubeで動画を見る***](https://youtu.be/M2Y4HJP6TT8)
+  [***PCの場合はこちらから -> YouTubeで動画を見る***](https://youtu.be/M2Y4HJP6TT8)
 [!['youtubeリンクにアクセスできません'](https://github.com/hapiharu012/VoiceMemo/assets/120043995/a937a01b-4330-4815-b15e-b722f9072e1f)](https://youtu.be/M2Y4HJP6TT8)
 
 ## システム構成図
